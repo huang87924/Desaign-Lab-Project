@@ -1,1 +1,2 @@
 # Desaign-Lab-Project
+  Since the words “Artificial intelligence”, “Deep Learning” are becoming increasingly popular in human society, we want to discover how people on the internet understand these words and what their attitudes are when they face the topic of problems of these new technologies such as bias problems in Facial recognition and society problem caused by arithmetic problem in Artificial Intelligence. In this research, we collected new york times’ and Washington Post’s comments data to discover and describe the public sentiment regarding the keywords we use.
